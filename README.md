@@ -17,17 +17,17 @@ I have also created basic numbers for each school individually (Shown Below) so 
 After creating the dataframes for the analysis I began looking into some important numbers such as the best and worst five schools out of the 15.
 ###### Best Five
 Cabrera High School
-Thomas High School
-Griffin High School
-Wilson High School
-Pena High School
+<br>Thomas High School
+<br>Griffin High School
+<br>Wilson High School
+<br>Pena High School
 
 ###### Worst Five
 Rodriguez High School
-Figueroa High School
-Huang High School
-Hernandez High School	
-Johnson High School
+<br>Figueroa High School
+<br>Huang High School
+<br>Hernandez High School	
+<br>Johnson High School
 
 Then to get some conclusive results I began looking into what factors might play into these schools being the top and bottom of the list. The three main factors that we tested for were school size, budget per student, and school type. 
 
